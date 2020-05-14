@@ -1,0 +1,6 @@
+RowName,EventName,CharName,Day,TimeHour,TimeMinute,Location
+0000,Meeting 1,Milliam,2,10,30,Room A
+0001,Meeting 1,Quibbles,2,10,30,Room A
+0002,Meeting 2,Bingus,3,11,30,Room B
+0003,Meeting 3,Milliam,3,12,30,Room C
+0004,Meeting 4,Milliam,3,13,30,Room D

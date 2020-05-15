@@ -1,4 +1,5 @@
 RowName,PWKnown?,PW,JobType
+Select Username,FALSE,*,Emp
 Milliam,TRUE,***,Sec
 Bingus,FALSE,****,Sec
 Shorple,FALSE,********,Emp
